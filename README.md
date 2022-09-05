@@ -36,23 +36,16 @@ disease or not.
 
 ### Demo Video link: https://youtu.be/eWjhhfttZC4
 
-```bash
-  pip install -r requirements.txt
-```
 
-
-```bash
-  python main.py
-```
 
 
 # Authors
 
-- [@TanayTambe]()
+- [@TanayTambe](https://github.com/tanaytambe03/Thyroid-disease-detection.git)
 
 # Feedback
 
-If you have any feedback, please reach out to us at thorat.ganeshscoe@gmail.com
+If you have any feedback, please reach out to us at tanaytambe03@gmail.com
 
 #� �T�h�y�r�o�i�d�-�D�i�s�e�a�s�e�s�-�P�r�e�d�i�c�t�i�o�n�
 �
