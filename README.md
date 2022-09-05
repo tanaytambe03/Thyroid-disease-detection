@@ -12,10 +12,6 @@ disease or not.
 
 
 
-[You can reach the application here] 
-[https://thyroiddiseaseprediction.herokuapp.com/](https://thyroiddiseaseprediction.herokuapp.com/)
-
-
 
 # Steps to involved in model building
 - Data Loading
@@ -38,31 +34,12 @@ disease or not.
 
 # Demo
 
-### Demo Video link:[ [https://youtu.be/k-hHG6r6oP4](https://youtu.be/k-hHG6r6oP4)](https://youtu.be/eWjhhfttZC4)
-
-
-
-# Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Ganesh-Thorat-01/Thyroid-Disease-Detection
-```
-
-Go to the project directory
-
-```bash
-  cd Thyroid-Disease-Detection
-```
-
-Install dependencies
+### Demo Video link: https://youtu.be/eWjhhfttZC4
 
 ```bash
   pip install -r requirements.txt
 ```
 
-Start the server
 
 ```bash
   python main.py
@@ -71,8 +48,7 @@ Start the server
 
 # Authors
 
-- [@Ganesh-Thorat-01](https://github.com/Ganesh-Thorat-01/)
-- [@SejalKathed](https://github.com/SejalKathed)
+- [@TanayTambe]()
 
 # Feedback
 
